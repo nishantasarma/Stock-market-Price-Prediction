@@ -1,0 +1,27 @@
+Aims and objective
+--------------------------------------------------------------------------------------------------------------------
+
+The aim of this project is to approximate the next day closing stock price given the previous days data(Closing price,Volume of stock,Google's number of results of that stock for that day, moving average of the closing priice and
+momentum of closing price). We try to do this by collecting data from dispartate sources namely google finance and google result count.   
+
+------------------------------------------------------------------------------------------------------------------------
+
+
+Motivation 
+----------------------------------------------------------------------------------------------------------------------
+
+	According to Efficient market hypothesis, The stock market is totally random but financial firms and conpanies like Goldmansachs hire people to make predictions about the stock market and there's also investors like Warren Buffet who
+	have made their fortune by investing in stocks.
+	We on the other hand chose this topic because of our interest in the underlying and the most rapidly growing technology The technology namely machine learning and Artificial intelligence which are used in many sectors ranging from bioinformatics, astrophysics computer science, statistics etc.   
+
+Background study
+-------------------------------------------------------------------------------------------------------------------
+	We started our project by at first understanding the very basics of how machine learning alogrithm works that is to optimize an objective function by minimizing the error. Then we went on to learn how to do linear regression using gradient descent and also by using normal equations, logistic regression(which turned out to be classification) then we moved on to regularized equations and learnt a bit about the problem of overfitting.
+
+	After studying at a high level that how machine learning algorithm works we looked at a few machine learning papers namely Applications of Machine learning in Stock prediction and the Mininmum correlation paper.
+	We went on to implement a very basic version of the  first paper with few feaures listed there as we had only 30 days worth of data.	
+	We used the support vector regression algorithm and for the implementation we used the scikit library of python.
+
+-----------------------------------------------------------------------------------------------------------------------
+
+

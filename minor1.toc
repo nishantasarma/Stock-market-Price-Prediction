@@ -1,0 +1,25 @@
+\contentsline {chapter}{Abstract}{1}
+\contentsline {chapter}{Acknowledgement}{2}
+\contentsline {chapter}{Declaration}{3}
+\contentsline {chapter}{Certificate from the Supervisor}{4}
+\contentsline {chapter}{Certificate from the Head}{5}
+\contentsline {chapter}{\numberline {1}Introduction}{7}
+\contentsline {section}{\numberline {1.1}Aim}{7}
+\contentsline {section}{\numberline {1.2}Motivation}{8}
+\contentsline {section}{\numberline {1.3}Platform used}{9}
+\contentsline {chapter}{\numberline {2}Background Study}{10}
+\contentsline {section}{\numberline {2.1}Work Done in this field}{10}
+\contentsline {section}{\numberline {2.2}Description about algorithms Studied}{12}
+\contentsline {subsection}{\numberline {2.2.1}Linear regression}{12}
+\contentsline {subsection}{\numberline {2.2.2}Support Vector Machine - Regression (SVR)}{14}
+\contentsline {subsection}{\numberline {2.2.3}Artificial Neural Networks- Regression}{17}
+\contentsline {chapter}{\numberline {3}Our Work}{19}
+\contentsline {subsection}{\numberline {3.0.1}Data Gathering}{20}
+\contentsline {subsection}{\numberline {3.0.2}Preprocessing}{21}
+\contentsline {subsection}{\numberline {3.0.3}Feature extraction}{22}
+\contentsline {subsection}{\numberline {3.0.4}Normalization}{23}
+\contentsline {subsection}{\numberline {3.0.5}Modelling}{24}
+\contentsline {subsection}{\numberline {3.0.6}Error calculation}{25}
+\contentsline {chapter}{\numberline {4}Result and Analysis}{26}
+\contentsline {chapter}{\numberline {5}Future Work}{28}
+\contentsline {chapter}{\numberline {6}References}{29}

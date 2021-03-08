@@ -1,0 +1,644 @@
+This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015/Debian) (preloaded format=pdflatex 2017.9.27)  27 NOV 2017 13:36
+entering extended mode
+ restricted \write18 enabled.
+ %&-line parsing enabled.
+**minor1.tex
+(./minor1.tex
+LaTeX2e <2016/02/01>
+Babel <3.9q> and hyphenation patterns for 3 language(s) loaded.
+(/usr/share/texlive/texmf-dist/tex/latex/base/report.cls
+Document Class: report 2014/09/29 v1.4h Standard LaTeX document class
+(/usr/share/texlive/texmf-dist/tex/latex/base/size10.clo
+File: size10.clo 2014/09/29 v1.4h Standard LaTeX file (size option)
+)
+\c@part=\count79
+\c@chapter=\count80
+\c@section=\count81
+\c@subsection=\count82
+\c@subsubsection=\count83
+\c@paragraph=\count84
+\c@subparagraph=\count85
+\c@figure=\count86
+\c@table=\count87
+\abovecaptionskip=\skip41
+\belowcaptionskip=\skip42
+\bibindent=\dimen102
+)
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/graphicx.sty
+Package: graphicx 2014/10/28 v1.0g Enhanced LaTeX Graphics (DPC,SPQR)
+
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/keyval.sty
+Package: keyval 2014/10/28 v1.15 key=value parser (DPC)
+\KV@toks@=\toks14
+)
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/graphics.sty
+Package: graphics 2016/01/03 v1.0q Standard LaTeX Graphics (DPC,SPQR)
+
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/trig.sty
+Package: trig 2016/01/03 v1.10 sin cos tan (DPC)
+)
+(/usr/share/texlive/texmf-dist/tex/latex/latexconfig/graphics.cfg
+File: graphics.cfg 2010/04/23 v1.9 graphics configuration of TeX Live
+)
+Package graphics Info: Driver file: pdftex.def on input line 95.
+
+(/usr/share/texlive/texmf-dist/tex/latex/pdftex-def/pdftex.def
+File: pdftex.def 2011/05/27 v0.06d Graphics/color for pdfTeX
+
+(/usr/share/texlive/texmf-dist/tex/generic/oberdiek/infwarerr.sty
+Package: infwarerr 2010/04/08 v1.3 Providing info/warning/error messages (HO)
+)
+(/usr/share/texlive/texmf-dist/tex/generic/oberdiek/ltxcmds.sty
+Package: ltxcmds 2011/11/09 v1.22 LaTeX kernel commands for general use (HO)
+)
+\Gread@gobject=\count88
+))
+\Gin@req@height=\dimen103
+\Gin@req@width=\dimen104
+)
+(/usr/share/texlive/texmf-dist/tex/latex/float/float.sty
+Package: float 2001/11/08 v1.3d Float enhancements (AL)
+\c@float@type=\count89
+\float@exts=\toks15
+\float@box=\box26
+\@float@everytoks=\toks16
+\@floatcapt=\box27
+) (./minor1.aux)
+\openout1 = `minor1.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 5.
+LaTeX Font Info:    ... okay on input line 5.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 5.
+LaTeX Font Info:    ... okay on input line 5.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 5.
+LaTeX Font Info:    ... okay on input line 5.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 5.
+LaTeX Font Info:    ... okay on input line 5.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 5.
+LaTeX Font Info:    ... okay on input line 5.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 5.
+LaTeX Font Info:    ... okay on input line 5.
+
+(/usr/share/texlive/texmf-dist/tex/context/base/supp-pdf.mkii
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count90
+\scratchdimen=\dimen105
+\scratchbox=\box28
+\nofMPsegments=\count91
+\nofMParguments=\count92
+\everyMPshowfont=\toks17
+\MPscratchCnt=\count93
+\MPscratchDim=\dimen106
+\MPnumerator=\count94
+\makeMPintoPDFobject=\count95
+\everyMPtoPDFconversion=\toks18
+) (/usr/share/texlive/texmf-dist/tex/generic/oberdiek/pdftexcmds.sty
+Package: pdftexcmds 2011/11/29 v0.20 Utility functions of pdfTeX for LuaTeX (HO
+)
+
+(/usr/share/texlive/texmf-dist/tex/generic/oberdiek/ifluatex.sty
+Package: ifluatex 2010/03/01 v1.3 Provides the ifluatex switch (HO)
+Package ifluatex Info: LuaTeX not detected.
+)
+(/usr/share/texlive/texmf-dist/tex/generic/oberdiek/ifpdf.sty
+Package: ifpdf 2011/01/30 v2.3 Provides the ifpdf switch (HO)
+Package ifpdf Info: pdfTeX in PDF mode is detected.
+)
+Package pdftexcmds Info: LuaTeX not detected.
+Package pdftexcmds Info: \pdf@primitive is available.
+Package pdftexcmds Info: \pdf@ifprimitive is available.
+Package pdftexcmds Info: \pdfdraftmode found.
+)
+(/usr/share/texlive/texmf-dist/tex/latex/oberdiek/epstopdf-base.sty
+Package: epstopdf-base 2010/02/09 v2.5 Base part for package epstopdf
+
+(/usr/share/texlive/texmf-dist/tex/latex/oberdiek/grfext.sty
+Package: grfext 2010/08/19 v1.1 Manage graphics extensions (HO)
+
+(/usr/share/texlive/texmf-dist/tex/generic/oberdiek/kvdefinekeys.sty
+Package: kvdefinekeys 2011/04/07 v1.3 Define keys (HO)
+))
+(/usr/share/texlive/texmf-dist/tex/latex/oberdiek/kvoptions.sty
+Package: kvoptions 2011/06/30 v3.11 Key value format for package options (HO)
+
+(/usr/share/texlive/texmf-dist/tex/generic/oberdiek/kvsetkeys.sty
+Package: kvsetkeys 2012/04/25 v1.16 Key value parser (HO)
+
+(/usr/share/texlive/texmf-dist/tex/generic/oberdiek/etexcmds.sty
+Package: etexcmds 2011/02/16 v1.5 Avoid name clashes with e-TeX commands (HO)
+Package etexcmds Info: Could not find \expanded.
+(etexcmds)             That can mean that you are not using pdfTeX 1.50 or
+(etexcmds)             that some package has redefined \expanded.
+(etexcmds)             In the latter case, load this package earlier.
+)))
+Package grfext Info: Graphics extension search list:
+(grfext)             [.png,.pdf,.jpg,.mps,.jpeg,.jbig2,.jb2,.PNG,.PDF,.JPG,.JPE
+G,.JBIG2,.JB2,.eps]
+(grfext)             \AppendGraphicsExtensions on input line 452.
+
+(/usr/share/texlive/texmf-dist/tex/latex/latexconfig/epstopdf-sys.cfg
+File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Liv
+e
+))
+
+! LaTeX Error: Environment longtable undefined.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.27 \begin{longtable}
+                      
+? R
+OK, entering \nonstopmode...
+! Misplaced alignment tab character &.
+l.29 Nishanta Sarma     &
+                          (Roll No. BT/IT/14-28)\\
+I can't figure out why you would want to use a tab mark
+here. If you just want an ampersand, the remedy is
+simple: Just type `I\&' now. But if some right brace
+up above has ended a previous alignment prematurely,
+you're probably due for more error messages, and you
+might try typing `S' now just to see what is salvageable.
+
+! Misplaced alignment tab character &.
+l.30 Dakamanbha Ryngkhlem    &
+                               (Roll No. BT/IT/14-13)\\
+I can't figure out why you would want to use a tab mark
+here. If you just want an ampersand, the remedy is
+simple: Just type `I\&' now. But if some right brace
+up above has ended a previous alignment prematurely,
+you're probably due for more error messages, and you
+might try typing `S' now just to see what is salvageable.
+
+! Misplaced alignment tab character &.
+l.31 Devilata Pegu     &
+                         (Roll No. BT/IT/14-14)\\
+I can't figure out why you would want to use a tab mark
+here. If you just want an ampersand, the remedy is
+simple: Just type `I\&' now. But if some right brace
+up above has ended a previous alignment prematurely,
+you're probably due for more error messages, and you
+might try typing `S' now just to see what is salvageable.
+
+
+! LaTeX Error: \begin{center} on input line 7 ended by \end{longtable}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.33 \end{longtable}
+                    
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+<./images/nehulogo.jpg, id=1, 225.84375pt x 225.84375pt>
+File: ./images/nehulogo.jpg Graphic file (type jpg)
+
+<use ./images/nehulogo.jpg>
+Package pdftex.def Info: ./images/nehulogo.jpg used on input line 49.
+(pdftex.def)             Requested size: 113.81102pt x 113.81412pt.
+ [1
+
+{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map} <./images/nehulogo.jpg>] [1
+
+] [2
+
+]
+File: ./images/nehulogo.jpg Graphic file (type jpg)
+ <use ./images/nehulogo.jpg>
+Package pdftex.def Info: ./images/nehulogo.jpg used on input line 102.
+(pdftex.def)             Requested size: 113.81102pt x 113.81412pt.
+ [3
+
+]
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <7> on input line 108.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <5> on input line 108.
+
+Overfull \hbox (54.9453pt too wide) in paragraph at lines 107--109
+\OT1/cmr/m/n/10 This is to cer-tify that ( Nis-hanta Sarma(BT/IT/14-28) ,Daka-m
+anbha Ryngkhlem(BT/IT/14-
+ []
+
+
+Overfull \hbox (38.55623pt too wide) in paragraph at lines 107--109
+\OT1/cmr/m/n/10 13), Dev-ilata Pegu(BT/IT/14-14) ) worked in the project $[]$ 
+ []
+
+[4]
+File: ./images/nehulogo.jpg Graphic file (type jpg)
+ <use ./images/nehulogo.jpg>
+Package pdftex.def Info: ./images/nehulogo.jpg used on input line 118.
+(pdftex.def)             Requested size: 113.81102pt x 113.81412pt.
+
+Overfull \hbox (54.9453pt too wide) in paragraph at lines 124--126
+\OT1/cmr/m/n/10 This is to cer-tify that ( Nis-hanta Sarma(BT/IT/14-28) ,Daka-m
+anbha Ryngkhlem(BT/IT/14-
+ []
+
+
+Overfull \hbox (38.55623pt too wide) in paragraph at lines 124--126
+\OT1/cmr/m/n/10 13), Dev-ilata Pegu(BT/IT/14-14) ) worked in the project $[]$ 
+ []
+
+
+! LaTeX Error: There's no line here to end.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.131 \newline
+              
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+[5] (./minor1.toc)
+\tf@toc=\write3
+\openout3 = `minor1.toc'.
+
+ [6
+
+]
+Chapter 1.
+[7
+
+]
+Underfull \hbox (badness 10000) in paragraph at lines 161--162
+
+ []
+
+[8]
+Underfull \hbox (badness 10000) in paragraph at lines 167--183
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 167--183
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 167--183
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 167--183
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 167--183
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 167--183
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 167--183
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 167--183
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 167--183
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 167--183
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 167--183
+
+ []
+
+[9]
+Chapter 2.
+
+Overfull \hbox (6.97282pt too wide) in paragraph at lines 188--191
+\OT1/cmr/m/n/10 have been made to pre-dict stock prices by study-ing pub-lic se
+n-ti-ments of stocks.But
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 188--191
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 192--193
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 196--205
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 196--205
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 196--205
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 196--205
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 196--205
+
+ []
+
+[10
+
+] [11]
+Underfull \hbox (badness 10000) in paragraph at lines 212--215
+
+ []
+
+<./images/linear_regression.png, id=48, 220.825pt x 145.54375pt>
+File: ./images/linear_regression.png Graphic file (type png)
+
+<use ./images/linear_regression.png>
+Package pdftex.def Info: ./images/linear_regression.png used on input line 219.
+
+(pdftex.def)             Requested size: 345.0pt x 227.3982pt.
+ [12] [13 <./images/linear_regression.png>] <./images/svr0.png, id=63, 459.7175
+pt x 283.0575pt>
+File: ./images/svr0.png Graphic file (type png)
+ <use ./images/svr0.png>
+Package pdftex.def Info: ./images/svr0.png used on input line 231.
+(pdftex.def)             Requested size: 345.0pt x 212.43512pt.
+
+<./images/svr.png, id=64, 492.84125pt x 282.05376pt>
+File: ./images/svr.png Graphic file (type png)
+ <use ./images/svr.png>
+Package pdftex.def Info: ./images/svr.png used on input line 236.
+(pdftex.def)             Requested size: 345.0pt x 197.45349pt.
+
+[14 <./images/svr0.png>] <./images/svr2.png, id=68, 495.8525pt x 275.0275pt>
+File: ./images/svr2.png Graphic file (type png)
+
+<use ./images/svr2.png>
+Package pdftex.def Info: ./images/svr2.png used on input line 249.
+(pdftex.def)             Requested size: 345.0pt x 191.35548pt.
+ [15 <./images/svr.png>] [16 <./images/svr2.png>]
+<./images/mneuron.png, id=78, 296.10625pt x 171.64125pt>
+File: ./images/mneuron.png Graphic file (type png)
+
+<use ./images/mneuron.png>
+Package pdftex.def Info: ./images/mneuron.png used on input line 263.
+(pdftex.def)             Requested size: 345.0pt x 199.9892pt.
+
+<./images/mneuron1.png, id=79, 553.31718pt x 440.39531pt>
+File: ./images/mneuron1.png Graphic file (type png)
+
+<use ./images/mneuron1.png>
+Package pdftex.def Info: ./images/mneuron1.png used on input line 271.
+(pdftex.def)             Requested size: 345.0pt x 274.58783pt.
+ [17 <./images/mneuron.png>] [18 <./images/mneuron1.png>]
+Chapter 3.
+
+Underfull \hbox (badness 10000) in paragraph at lines 277--285
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 277--285
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 277--285
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 277--285
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 277--285
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 277--285
+
+ []
+
+[19
+
+]
+Underfull \hbox (badness 10000) in paragraph at lines 287--292
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 287--292
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 287--292
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 287--292
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 287--292
+
+ []
+
+[20]
+Underfull \hbox (badness 10000) in paragraph at lines 296--303
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 296--303
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 296--303
+
+ []
+
+[21]
+Underfull \hbox (badness 10000) in paragraph at lines 305--307
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 305--307
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 305--307
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 307--309
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 309--310
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 309--310
+
+ []
+
+[22]
+Underfull \hbox (badness 10000) in paragraph at lines 312--321
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 312--321
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 312--321
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 312--321
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 312--321
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 312--321
+
+ []
+
+[23] [24] [25]
+Chapter 4.
+
+Overfull \hbox (100.49866pt too wide) detected at line 335
+\OML/cmm/m/it/10 Result \OT1/cmr/m/n/10 = \OML/cmm/m/it/10 array\OT1/cmr/m/n/10
+ ([156\OML/cmm/m/it/10 :\OT1/cmr/m/n/10 23963679\OML/cmm/m/it/10 ; \OT1/cmr/m/n
+/10 162\OML/cmm/m/it/10 :\OT1/cmr/m/n/10 93297676\OML/cmm/m/it/10 ; \OT1/cmr/m/
+n/10 160\OML/cmm/m/it/10 :\OT1/cmr/m/n/10 45553855\OML/cmm/m/it/10 ; \OT1/cmr/m
+/n/10 158\OML/cmm/m/it/10 :\OT1/cmr/m/n/10 9554201\OML/cmm/m/it/10 ; \OT1/cmr/m
+/n/10 161\OML/cmm/m/it/10 :\OT1/cmr/m/n/10 35103545\OML/cmm/m/it/10 ; \OT1/cmr/
+m/n/10 160\OML/cmm/m/it/10 :\OT1/cmr/m/n/10 52943472])
+ []
+
+
+Overfull \hbox (114.15948pt too wide) detected at line 337
+\OML/cmm/m/it/10 YTestSet \OT1/cmr/m/n/10 = \OML/cmm/m/it/10 array\OT1/cmr/m/n/
+10 ([156\OML/cmm/m/it/10 :\OT1/cmr/m/n/10 23963679\OML/cmm/m/it/10 ; \OT1/cmr/m
+/n/10 162\OML/cmm/m/it/10 :\OT1/cmr/m/n/10 93297676\OML/cmm/m/it/10 ; \OT1/cmr/
+m/n/10 160\OML/cmm/m/it/10 :\OT1/cmr/m/n/10 45553855\OML/cmm/m/it/10 ; \OT1/cmr
+/m/n/10 158\OML/cmm/m/it/10 :\OT1/cmr/m/n/10 9554201\OML/cmm/m/it/10 ; \OT1/cmr
+/m/n/10 161\OML/cmm/m/it/10 :\OT1/cmr/m/n/10 35103545\OML/cmm/m/it/10 ; \OT1/cm
+r/m/n/10 160\OML/cmm/m/it/10 :\OT1/cmr/m/n/10 52943472])
+ []
+
+<./images/figure_1-1.png, id=110, 462.528pt x 346.896pt>
+File: ./images/figure_1-1.png Graphic file (type png)
+
+<use ./images/figure_1-1.png>
+Package pdftex.def Info: ./images/figure_1-1.png used on input line 342.
+(pdftex.def)             Requested size: 345.0pt x 258.76335pt.
+ [26
+
+] [27 <./images/figure_1-1.png>]
+Chapter 5.
+
+Underfull \hbox (badness 10000) in paragraph at lines 347--354
+
+ []
+
+[28
+
+]
+Chapter 6.
+
+Underfull \hbox (badness 10000) in paragraph at lines 357--361
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 357--361
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 357--361
+
+ []
+
+[29
+
+] (./minor1.aux) ) 
+Here is how much of TeX's memory you used:
+ 1605 strings out of 494953
+ 23029 string characters out of 6180977
+ 78397 words of memory out of 5000000
+ 4887 multiletter control sequences out of 15000+600000
+ 7378 words of font info for 26 fonts, out of 8000000 for 9000
+ 14 hyphenation exceptions out of 8191
+ 37i,6n,23p,888b,221s stack positions out of 5000i,500n,10000p,200000b,80000s
+</usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm
+/cmbx10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx1
+2.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx9.pfb><
+/usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmex10.pfb></usr/s
+hare/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb></usr/share/t
+exlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi5.pfb></usr/share/texlive/
+texmf-dist/fonts/type1/public/amsfonts/cm/cmmi7.pfb></usr/share/texlive/texmf-d
+ist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/share/texlive/texmf-dist/fon
+ts/type1/public/amsfonts/cm/cmr12.pfb></usr/share/texlive/texmf-dist/fonts/type
+1/public/amsfonts/cm/cmr5.pfb></usr/share/texlive/texmf-dist/fonts/type1/public
+/amsfonts/cm/cmr7.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfont
+s/cm/cmsl10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/c
+msy10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy7.p
+fb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmti12.pfb>
+Output written on minor1.pdf (30 pages, 370509 bytes).
+PDF statistics:
+ 173 PDF objects out of 1000 (max. 8388607)
+ 113 compressed objects within 2 object streams
+ 0 named destinations out of 1000 (max. 500000)
+ 41 words of extra memory for PDF output out of 10000 (max. 10000000)
+
